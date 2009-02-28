@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts
+END
+installmysql.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/installmysql.applescript
+END
+mysqlpw.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/mysqlpw.applescript
+END
+svn-repos.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/svn-repos.applescript
+END
+ServeBox.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/ServeBox.applescript
+END
+maintabs-apache.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/maintabs-apache.applescript
+END
+apache-managevirtualhosts.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/apache-managevirtualhosts.applescript
+END
+prefs.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/prefs.applescript
+END
+adfWithDataSource.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/adfWithDataSource.applescript
+END
+maintabs-mysql.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/maintabs-mysql.applescript
+END
+maintabs-svn.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/maintabs-svn.applescript
+END
+maintabs-php.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/maintabs-php.applescript
+END
+apachelogs.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/apachelogs.applescript
+END
+phpsettings.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/phpsettings.applescript
+END
+versions.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/servebox/!svn/ver/2/tags/1.0/Scripts/versions.applescript
+END

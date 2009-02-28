@@ -1,0 +1,409 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 607}}";
+			sepNavSelRange = "{100, 0}";
+			sepNavVisRange = "{0, 104}";
+			sepNavWindowFrame = "{{15, 38}, {1230, 735}}";
+		};
+	};
+	257572C2072881A4000BE9CA /* servebox */ = {
+		activeExec = 0;
+		executables = (
+			25D9445407B1533600FF306F /* servebox */,
+		);
+	};
+	257572D5072881A4000BE9CA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 607}}";
+			sepNavSelRange = "{674, 0}";
+			sepNavVisRange = "{0, 1123}";
+			sepNavWindowFrame = "{{15, 38}, {1230, 735}}";
+		};
+	};
+	25D9445407B1533600FF306F /* servebox */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-1" = {
+				PBXLSLaunchAction = 1;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = ASKDebuggerLaunchConfig;
+				displayName = "AppleScript Debugger";
+				identifier = com.apple.AppleScriptStudio.ASKDebugLaunchConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = ASKDebugger;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = AEDebug;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugSends;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugReceives;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugVerbose;
+				value = 1;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = servebox;
+		sourceDirectories = (
+		);
+	};
+	25D9445A07B1533700FF306F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	25D9445B07B1533700FF306F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 25D9445407B1533600FF306F /* servebox */;
+		activeTarget = 257572C2072881A4000BE9CA /* servebox */;
+		addToTargets = (
+			257572C2072881A4000BE9CA /* servebox */,
+		);
+		breakpoints = (
+			FAFA9EF10E060C3600854C31 /* apache-managevirtualhosts.applescript:13 */,
+			FAD912600E09BE33002671C0 /* apachemodules.applescript:13 */,
+			FA6481810E1DB24700C02290 /* maintabs-svn.applescript:79 */,
+		);
+		codeSenseManager = 25D9445B07B1533700FF306F /* Code sense */;
+		executables = (
+			25D9445407B1533600FF306F /* servebox */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					739,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					777,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					813,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					699,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 237240553;
+			PBXWorkspaceStateSaveDate = 237240553;
+		};
+		sourceControlManager = 25D9445A07B1533700FF306F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 607}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+			sepNavWindowFrame = "{{15, 38}, {1278, 735}}";
+		};
+	};
+	65359356078DD41800E8BB2F /* AppleScriptKit.sdef */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	DA206CF3015C4E8B03C91932 /* ServeBox.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 1145}}";
+			sepNavSelRange = "{2412, 0}";
+			sepNavVisRect = "{{0, 538}, {1191, 607}}";
+			sepNavWindowFrame = "{{16, 43}, {1230, 735}}";
+		};
+	};
+	FA107F480E19E95800A98D1D /* svn-repos.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 607}}";
+			sepNavSelRange = "{791, 0}";
+			sepNavVisRect = "{{0, 0}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FA13503A0DFDFF47003888B8 /* General_Prefs.tiff */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 38}, {1230, 735}}";
+		};
+	};
+	FA1350490DFDFFC9003888B8 /* prefs.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 607}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRect = "{{0, 0}, {1191, 607}}";
+			sepNavWindowFrame = "{{15, 38}, {1230, 735}}";
+		};
+	};
+	FA13506A0DFE020E003888B8 /* Credits.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1092}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 1038}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FA24C0C00E2050630063E4D0 /* mysqlpw.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 910}}";
+			sepNavSelRange = "{2641, 0}";
+			sepNavVisRect = "{{0, 0}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FA3E84490E2025E800CF42BC /* installmysql.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1338, 1752}}";
+			sepNavSelRange = "{136, 6320}";
+			sepNavVisRect = "{{0, 1142}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FA567EFF0E0B33F4001305AD /* phpsettings.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 3471}}";
+			sepNavSelRange = "{1470, 101}";
+			sepNavVisRect = "{{0, 339}, {1239, 584}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FA59A3300DFF1123001E87A3 /* versions.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 2110}}";
+			sepNavSelRange = "{4794, 0}";
+			sepNavVisRect = "{{0, 635}, {1191, 607}}";
+			sepNavWindowFrame = "{{15, 43}, {1230, 735}}";
+		};
+	};
+	FA6481810E1DB24700C02290 /* maintabs-svn.applescript:79 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FADFEA710E19974F00536EAD /* maintabs-svn.applescript */;
+		functionName = "on runDownload";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 79;
+		modificationTime = 237022159.343872;
+		state = 1;
+	};
+	FA9407550E17F1ED0099A3CC /* maintabs-mysql.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1491, 5995}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FAD912600E09BE33002671C0 /* apachemodules.applescript:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FAFC7FE90E04506C00D2B75D /* apachemodules.applescript */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		modificationTime = 237022159.343858;
+		state = 1;
+	};
+	FAD912770E09C187002671C0 /* apachelogs.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 584}}";
+			sepNavSelRange = "{393, 169}";
+			sepNavVisRect = "{{0, 0}, {1239, 584}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FAD912800E09C38A002671C0 /* maintabs-php.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 1329}}";
+			sepNavSelRange = "{3153, 0}";
+			sepNavVisRect = "{{0, 435}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FADFEA710E19974F00536EAD /* maintabs-svn.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1402, 2398}}";
+			sepNavSelRange = "{1716, 242}";
+			sepNavVisRect = "{{0, 619}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+	FADFEAE20E19B2C700536EAD /* BGHUDButtonCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 742}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{187, 1977}";
+			sepNavWindowFrame = "{{15, 38}, {1278, 735}}";
+		};
+	};
+	FADFEAE30E19B2C700536EAD /* BGHUDButtonCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 12250}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3685, 1140}";
+			sepNavWindowFrame = "{{15, 38}, {1278, 735}}";
+		};
+	};
+	FAEFD2E50E0197A000F5B73E /* apache-managevirtualhosts.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 4063}}";
+			sepNavSelRange = "{9868, 0}";
+			sepNavVisRect = "{{0, 3457}, {1240, 606}}";
+			sepNavWindowFrame = "{{1, 44}, {1279, 734}}";
+		};
+	};
+	FAFA9ECA0E0608A000854C31 /* adfWithDataSource.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 2308}}";
+			sepNavSelRange = "{142, 125}";
+			sepNavVisRect = "{{0, 997}, {1239, 607}}";
+			sepNavWindowFrame = "{{1, 43}, {1278, 735}}";
+		};
+	};
+	FAFA9EF10E060C3600854C31 /* apache-managevirtualhosts.applescript:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FAEFD2E50E0197A000F5B73E /* apache-managevirtualhosts.applescript */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		modificationTime = 237022159.343734;
+		state = 2;
+	};
+	FAFC7FE90E04506C00D2B75D /* apachemodules.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1240, 584}}";
+			sepNavSelRange = "{562, 0}";
+			sepNavVisRect = "{{0, 0}, {1240, 584}}";
+			sepNavWindowFrame = "{{1, 43}, {1279, 735}}";
+		};
+	};
+	FAFE806E0E009EA600B68309 /* maintabs-apache.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1239, 2533}}";
+			sepNavSelRange = "{6365, 96}";
+			sepNavVisRect = "{{0, 1926}, {1239, 607}}";
+			sepNavWindowFrame = "{{2, 43}, {1278, 735}}";
+		};
+	};
+}

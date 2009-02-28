@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>serveboxicon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.servebox</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>Build 10</string>
+	<key>NSAppleScriptEnabled</key>
+	<string>YES</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>SUFeedURL</key>
+	<string>http://alexcoomans.net/servebox/appcast/servebox.xml</string>
+	<key>SparkleVersion</key>
+	<string>1.5b5</string>
+	<key>ApacheVersion</key>
+	<string>2.2.9</string>
+	<key>PHPVersion</key>
+	<string>5.26</string>
+	<key>MySQLVersion</key>
+	<string>5.0.67</string>
+	<key>SubversionVersion</key>
+	<string>1.5.1</string>
+	<key>LibraryVersions</key>
+	<array>
+		<string>neon</string>
+		<string></string>
+		<string>zlib</string>
+		<string>1.2.3</string>
+	</array>
+</dict>
+</plist>
